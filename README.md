@@ -6,5 +6,5 @@ Para rodar esse peojeto na sua máqui, por favor digite:
 
 ´´´
 
-npm install react
+node app.js
 ´´´´
